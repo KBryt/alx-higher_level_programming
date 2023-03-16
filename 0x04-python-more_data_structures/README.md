@@ -8,11 +8,11 @@ man or help:
 
 ##python3
 
-###Learning Objectives
+### Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-##General 
+## General 
 
 Why Python programming is awesome
 What are sets and how to use them
@@ -31,7 +31,7 @@ You will not be able to meet the objectives of this or any following project by 
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-##Requirements General
+## Requirements General
 
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
