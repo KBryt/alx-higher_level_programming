@@ -7,10 +7,13 @@ Learn to Program 12 Lambda Map Filter Reduce
 man or help:
 
 ##python3
+
 ###Learning Objectives
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-##General
+##General 
+
 Why Python programming is awesome
 What are sets and how to use them
 What are the most common methods of set and how to use them
@@ -29,6 +32,7 @@ You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
 ##Requirements General
+
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 All your files should end with a new line
