@@ -1,16 +1,16 @@
-Resources
-Read or watch:
+# Resources
+## Read or watch:
 
-Data structures
+### Data structures
 Lambda, filter, reduce and map
 Learn to Program 12 Lambda Map Filter Reduce
 man or help:
 
-python3
-Learning Objectives
+##python3
+###Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+##General
 Why Python programming is awesome
 What are sets and how to use them
 What are the most common methods of set and how to use them
@@ -27,8 +27,8 @@ You are tasked to come up with solutions for the tasks below yourself to meet wi
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-General
+
+##Requirements General
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 All your files should end with a new line
@@ -41,7 +41,8 @@ Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
 0. Squared simple
-mandatory
+
+# mandatory
 Write a function that computes the square value of all integers of a matrix.
 
 Prototype: def square_matrix_simple(matrix=[]):
