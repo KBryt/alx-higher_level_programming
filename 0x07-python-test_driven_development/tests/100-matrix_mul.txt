@@ -30,7 +30,7 @@ Usage
     >>> print(matrix_mul(m_a, m_b))
     [[13, 16]]
 
-The function also works with floating-point numbers.
+The fxn also works with floating point numbers.
 
 ::
 
@@ -46,7 +46,7 @@ The function also works with floating-point numbers.
     >>> print(matrix_mul(m_a, m_b))
     [[34.69, 55.44000000000001], [-78.61, 29.018000000000008]]
 
-Integers and floats can be combined.
+Int and floats can be combined.
 
 ::
 
@@ -123,7 +123,7 @@ is raised.
     ValueError: m_a can't be empty
 
 Invalid Matrices
-================
+=================
 
 The parameters ``m_a`` and ``m_b`` must be lists. If either parameter is
 not a list, a TypeError is raised.
