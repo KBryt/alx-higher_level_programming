@@ -3,11 +3,11 @@
 ## Resources
 ### Read or watch:
 
-- doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)
-- doctest – Testing through documentation
-- Unit Tests in Python
-- Unittest module
-- Interactive and Non-interactive tests
+- [doctest](https://docs.python.org/3.4/library/doctest.html) — Test interactive Python examples (until “26.2.3.7. Warnings” included)
+- [doctest](https://pymotw.com/3/doctest/) – Testing through documentation
+- [Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+- [Unittest module](https://www.youtube.com/watch?v=6tNS--WetLI)
+- [Interactive and Non-interactive tests](https://mattermost.com/blog/testing-python-understanding-doctest-and-unittest/)
 
 Never forget a test
 Testing is the process of evaluating a system or its component(s) with the intent to find whether it satisfies the specified requirements or not. Testing is executing a system in order to identify any gaps, errors, or missing requirements contrary to the actual requirements. This tutorial will give you a basic understanding of software testing, its types, methods, levels, and other related terminologies.
