@@ -1,1 +1,9 @@
-0x0A-python-inheritance
+# 0x0A-python-inheritance
+
+## Resources
+### Read or watch:
+
+- Inheritance
+- Multiple inheritance
+Inheritance in Python
+Learn to Program 10 : Inheritance Magic Methods
