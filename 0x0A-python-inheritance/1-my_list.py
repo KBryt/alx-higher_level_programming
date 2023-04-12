@@ -6,7 +6,10 @@ contains MyList class
 
 class MyList(list):
     """The class implement sorted printing for the built-in list class."""
+    def __init__(self):
+        """initializes the object"""
+        super().__init__()
 
     def print_sorted(self):
-        """Print list in sorted ascending order."""
+        """prints the sorted list"""
         print(sorted(self))
