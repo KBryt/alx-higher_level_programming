@@ -8,7 +8,6 @@ class Square(Rectangle):
 
     def __init__(self, size, x=0, y=0, id=None):
         """Initialize a new Square.
-
         Args:
             size (int): The size of the new Square.
             x (int): The x coordinate of the new Square.
@@ -19,7 +18,7 @@ class Square(Rectangle):
 
     @property
     def size(self):
-        """Get or set the size of the Square."""
+        """Get/set the size of the Square."""
         return self.width
 
     @size.setter
@@ -29,7 +28,6 @@ class Square(Rectangle):
 
     def update(self, *args, **kwargs):
         """Update the Square.
-
         Args:
             *args (ints): New attribute values.
                 - 1st argument represents id attribute
@@ -69,7 +67,7 @@ class Square(Rectangle):
                     self.y = v
 
     def to_dictionary(self):
-        """Return the dict rep of the Square."""
+        """Return the dictionary representation of the Square."""
         return {
             "id": self.id,
             "size": self.width,
@@ -78,7 +76,6 @@ class Square(Rectangle):
         }
 
     def __str__(self):
-        """Return the print() and str() rep of a Square."""
+        """Return the print() and str() representation of a Square."""
         return "[Square] ({}) {}/{} - {}".format(self.id, self.x, self.y,
                                                  self.width)
-
