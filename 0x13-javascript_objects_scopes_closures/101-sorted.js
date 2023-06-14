@@ -1,5 +1,5 @@
 #!/usr/bin/node
-const direc = require('./101-data').dict;
+const direc = require('./101-data.js').dict;
 const ndix = {};
 
 for (const k in direc) {
