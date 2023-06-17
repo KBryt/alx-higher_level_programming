@@ -6,4 +6,8 @@ module.exports = class Rectangle {
       this.height = h;
     }
   }
+<<<<<<< HEAD
 };  
+=======
+};
+>>>>>>> f2c204d42e56c929512c49df13fe2be6a9deb652
